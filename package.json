@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/joefedden/FirstContact#readme",
   "dependencies": {
-    "express": "^4.15.0"
+    "express": "^4.15.0",
+    "react": "^15.4.2"
   }
 }
